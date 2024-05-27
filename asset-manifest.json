@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.852ef821.css",
+    "main.js": "/static/js/main.289ba22b.js",
+    "static/js/787.fade2e9e.chunk.js": "/static/js/787.fade2e9e.chunk.js",
+    "static/media/mov_bbb.mp4": "/static/media/mov_bbb.2c92d01256c8f29e1b68.mp4",
+    "static/media/noman.jpg": "/static/media/noman.752a554edc1eb153b3e0.jpg",
+    "static/media/siam1.jpg": "/static/media/siam1.f12f92386e8850ff6c91.jpg",
+    "static/media/gallery4.jpg": "/static/media/gallery4.395f4ded19ee6f5e1538.jpg",
+    "static/media/gallery6.jpg": "/static/media/gallery6.93d81d1b352c68d286ef.jpg",
+    "static/media/gallery2.jpg": "/static/media/gallery2.606c78598cb2b68e0566.jpg",
+    "static/media/muna.jpg": "/static/media/muna.1c27faf702a93961d3d5.jpg",
+    "static/media/siam.jpg": "/static/media/siam.32c85e45bc1b67e6594f.jpg",
+    "static/media/gallery7.jpg": "/static/media/gallery7.df2937a071b5bcb77582.jpg",
+    "static/media/gallery8.jpg": "/static/media/gallery8.397f98eb25039a69e8e0.jpg",
+    "static/media/akhtur.jpg": "/static/media/akhtur.ec6bdcbce62e20c58d14.jpg",
+    "static/media/gallery3.jpg": "/static/media/gallery3.6b913a106d6966f6ab48.jpg",
+    "static/media/book-icon.jpg": "/static/media/book-icon.fa8f4b35176460adacf4.jpg",
+    "static/media/gallery1.jpg": "/static/media/gallery1.0be15d2a0be58dc11979.jpg",
+    "static/media/gallery5.jpg": "/static/media/gallery5.ab8361759d7a40e20d3f.jpg",
+    "static/media/university.png": "/static/media/university.88e4dbe1cb08a51986c5.png",
+    "static/media/nirjhor.jpg": "/static/media/nirjhor.6934d6a6bf9c8d132a34.jpg",
+    "static/media/rana.jpg": "/static/media/rana.d3f4bad4a5f3e56738e1.jpg",
+    "static/media/nayeem.jpg": "/static/media/nayeem.38a4db09b164250155bc.jpg",
+    "static/media/phone-icon.png": "/static/media/phone-icon.fe66a3e00ae11a7e6c4c.png",
+    "static/media/cap.png": "/static/media/cap.00386683833b6c98eab0.png",
+    "static/media/book-pgm.png": "/static/media/book-pgm.cdecfebedcaf3c845543.png",
+    "static/media/msg-icon.png": "/static/media/msg-icon.3cce50bc95bc7fdc2167.png",
+    "static/media/play-icon.png": "/static/media/play-icon.7e46cefc7664c19b1e68.png",
+    "static/media/book-logo.jpg": "/static/media/book-logo.988dba38afc1315560a4.jpg",
+    "index.html": "/index.html",
+    "main.852ef821.css.map": "/static/css/main.852ef821.css.map",
+    "main.289ba22b.js.map": "/static/js/main.289ba22b.js.map",
+    "787.fade2e9e.chunk.js.map": "/static/js/787.fade2e9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.852ef821.css",
+    "static/js/main.289ba22b.js"
+  ]
+}
